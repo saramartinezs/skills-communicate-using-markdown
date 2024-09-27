@@ -10,3 +10,7 @@ class HelloWorld {
     }
 }
 ````
+
+- [X] Study for exam
+- [ ] Start next assigment
+- [ ] Something else
